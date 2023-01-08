@@ -60,7 +60,7 @@ public class csharpodevmetodlar
 			default:
 				Console.WriteLine("Hatalı giriş yaptınız");
 				DevamMi();
-				break; ; ;
+				break; 
 		}
 	}
 }
